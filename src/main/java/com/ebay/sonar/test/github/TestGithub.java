@@ -13,6 +13,14 @@ if ( 3 == 3 && 3 == 3 ) { // if the first one is true, the second one is too
 if ( 3== 3 || 3 == 3) { // if the first one is true, the second one is too
   	System.out.println("test");
 }
+
+if ( 5 == 5 && 5 == 5 ) { // if the first one is true, the second one is too
+ 	System.out.println("test");
+}
+if ( 5== 5 || 5 == 5) { // if the first one is true, the second one is too
+  	System.out.println("test");
+}
 	}
+	
 	
 }
